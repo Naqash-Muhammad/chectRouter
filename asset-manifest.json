@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chectRouter/static/css/main.04179b6f.css",
+    "main.js": "/chectRouter/static/js/main.ecf274e9.js",
+    "static/js/787.35c417ef.chunk.js": "/chectRouter/static/js/787.35c417ef.chunk.js",
+    "index.html": "/chectRouter/index.html",
+    "main.04179b6f.css.map": "/chectRouter/static/css/main.04179b6f.css.map",
+    "main.ecf274e9.js.map": "/chectRouter/static/js/main.ecf274e9.js.map",
+    "787.35c417ef.chunk.js.map": "/chectRouter/static/js/787.35c417ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04179b6f.css",
+    "static/js/main.ecf274e9.js"
+  ]
+}
